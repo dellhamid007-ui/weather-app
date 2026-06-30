@@ -1,0 +1,28 @@
+*{
+  font-family: 'Outfit', Arial, Helvetica, sans-serif;  
+}
+
+body{
+    background-color: rgb(49, 121, 255);
+}
+
+.location-container{
+    position: absolute;
+
+    top: 0;
+}
+
+.main-container{
+    margin: 10vh auto;
+    width: 80%;
+    max-width: 700px;
+
+    height: 80vh;
+
+    background-color: rgb(94, 172, 250);
+
+    border-radius: 5%;
+
+    display: grid;
+}
+
